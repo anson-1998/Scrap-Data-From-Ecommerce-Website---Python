@@ -170,7 +170,7 @@ Raw_data = New_project.ResultData
 ColumnsToBeCleaned = ['Average Rating', 'Count Of Comment', 'Price']
 Cleaned_data = CleanData(Raw_data, ColumnsToBeCleaned)
 
-# Querying Data with customized range of product average rating, sorted by most comments given
+# Querying Data with customized range of product average rating, sorted by highest number of comments given
 result = MostCommentsWithRating(Cleaned_data, Rating_Low = 4, Rating_High = 5)
 
 # Set up connection to sql server and export the result file there
