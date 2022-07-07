@@ -16,5 +16,5 @@ Extracted data under a defined product category from a popular Ecommerce Platfor
 "Price per unit (HKD)"  
 "Place of origin"
 
-The extracted raw product data would be further cleaned by transforming into correct data type. Finally ran a query for returning the result table with the products having the average rating within the stated range, with sorting by most number of comments given.
+The extracted raw product data would be further cleaned by transforming into correct data type. Finally ran a query for returning the result table with the products having the average rating within the stated range, sorting by descending order of number of comments given.
 
