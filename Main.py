@@ -154,7 +154,7 @@ connection_string = (
     "Trusted_Connection=yes;"
 )
 # Prodcut category chosen for analyzing. Take reference from "Data_URL.py"
-Product_category = "Air Fryer"
+Product_category = "Air fryer"
 # File name of the result dataset
 result_filename = 'Air_Fryer_20220705'
 
