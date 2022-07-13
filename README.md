@@ -1,4 +1,4 @@
-# Scrap-Data-From-Ecommerce-Website---Python
+# Scraping-Data-From-Ecommerce-Website---Python
 
 ## Highlight
 This repository contains the entire Python code and one of example result table for the task. 
